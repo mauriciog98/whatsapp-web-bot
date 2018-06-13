@@ -148,7 +148,7 @@
 		if (!cb) return;
 		const loopFewTimes = () => {
 			setTimeout(() => {
-				const titleMain = getElement("selected_title").title;
+				const titleMain = getElement("selected_title").firstChild.title;
 				if (titleMain !== undefined && titleMain != title){
 					console.log('not yet');
 					return loopFewTimes();
