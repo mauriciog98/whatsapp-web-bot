@@ -228,7 +228,7 @@
 		// what to answer back?
 		let sendText
 
-		if (lastMsg.toUpperCase().indexOf('@HELP') > -1){
+		if (lastMsg.toUpperCase().indexOf('@HELP') > -1 lastMsg.trim().length < 6){
 			sendText = `
 				Cool ${title}! Some commands that you can send me:
 
@@ -236,14 +236,14 @@
 				2. *@JOKE*`
 		}
 
-		if (lastMsg.toUpperCase().indexOf('@TIME') > -1){
+		if (lastMsg.toUpperCase().indexOf('@TIME') > -1 lastMsg.trim().length < 6){
 			sendText = `
 				Don't you have a clock, dude?
 
 				*${new Date()}*`
 		}
 
-		if (lastMsg.toUpperCase().indexOf('@JOKE') > -1){
+		if (lastMsg.toUpperCase().indexOf('@JOKE') > -1 lastMsg.trim().length < 6){
 			sendText = jokeList[rand(jokeList.length - 1)];
 		}
 		
