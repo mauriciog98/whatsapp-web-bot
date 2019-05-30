@@ -26,7 +26,7 @@ Hum, so you already know that Whatsapp does not allow Bots, right?
 
 Well, you're right: Whatsapp will ban you forever if they discovery you are running a Bot on long-term. For a small test: Don't worry, go forward.
 
-I can't understand why Mark Zuckerberg still forbid Bots, he is the kind of guy who [loves to copy-cat](https://www.recode.net/2017/3/28/15079774/facebook-stories-snapchat-instagram-copy) all the good things in the Web, right? 
+I can't understand why Mark Zuckerberg still forbid Bots, he is the kind of guy who [loves to copy-cat](https://www.vox.com/2017/3/28/15079774/facebook-stories-snapchat-instagram-copy) all the good things in the Web, right? 
  Why not simply copy WeChat features? if you go to China, you will discover that you can pay all your bils using WeChat, including silly things like P2P payments or restaurants. Paper money is past.
 
 Elon Musk may be right, perhaps the little Zuckberg [is just being limited in this subject](https://twitter.com/elonmusk/status/889743782387761152), lol.
